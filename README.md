@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooooweeee&show_icons=true?count_private=true&hide=contribs)](https://github.com/ooooweeee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooooweeee&layout=compact)](https://github.com/ooooweeee)
+
 <!--
 **ooooweeee/ooooweeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
